@@ -27,7 +27,7 @@ profile() ->
     #{
         name        => "Dixit Saini",
         role        => "Erlang Developer & Backend Engineer",
-        education   => "B.Tech, Computer Science & Engineering",
+        education   => "BCA, Computer Science & Engineering",
         focus       => [otp, distributed_systems, real_time_apps],
         also_codes  => [kotlin, java, typescript],
         philosophy  => "Let it crash. Supervisors will heal it.",
